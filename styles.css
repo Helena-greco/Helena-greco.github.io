@@ -1,6 +1,7 @@
 h1 {
     font-family: Lobster; 
     font-size: 40px;
+    color:;
     text-align: center;
 }
 
@@ -10,4 +11,7 @@ body {
 
 .helena { 
     border-radius: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
