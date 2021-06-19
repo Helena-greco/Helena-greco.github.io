@@ -1,5 +1,5 @@
 .corpo {
-    background-image: linear-gradient(to bottom,beige ,  #ddbffb,#afe4f9);
+    background-image: linear-gradient(to bottom, #dcb569, #b3d4be,#336d96);
 }
 
 .helena { 
@@ -8,17 +8,18 @@
     margin-left: auto;
     margin-right: auto;
     margin-top: 40px;
+    box-shadow: black;
 }
 
 .helena-name {
     font-family: Raleway;
     font-size: 50px;
-    background-image: url(paletacores.jpg);
-    background-position: bottom;
+    background-image: url(abstrato.jpg);
+    background-position: center;
     margin: auto;
     padding:0px 40px;
     text-align: center;
-    color:saddlebrown;
+    color:black;
     text-shadow: 2px 2px black;
 }
 
