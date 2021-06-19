@@ -1,5 +1,5 @@
 .corpo {
-    background-image: linear-gradient(to bottom,#ecf4f8,  #ddbffb,#afe4f9);
+    background-image: linear-gradient(to bottom,beige ,  #ddbffb,#afe4f9);
 }
 
 .helena { 
@@ -13,12 +13,12 @@
 .helena-name {
     font-family: Raleway;
     font-size: 50px;
-    background-image: url(background.jpeg);
+    background-image: url(paletacores.jpg);
     background-position: bottom;
     margin: auto;
     padding:0px 40px;
     text-align: center;
-    color:#eda5ee;
+    color:saddlebrown;
     text-shadow: 2px 2px black;
 }
 
@@ -29,3 +29,5 @@ body {
 .indice {
     text-align: center;
 }
+
+#ecf4f8
