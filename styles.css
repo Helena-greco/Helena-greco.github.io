@@ -1,5 +1,6 @@
 .corpo {
     background-image: linear-gradient(to bottom,#dfb992, #f1f1ed, rgb(223, 168, 130));
+    text-align: center;
 }
 
 .helena { 
@@ -30,7 +31,7 @@
 
 .indice {
     text-align: center;
-    color: rgb(66, 38, 18);
+    color: rgb(61, 32, 12);
 }
 
 .links {
@@ -47,4 +48,24 @@
     border-radius: 15%;
     border: 3px solid #f1f1ed;
     display: inline-block;
+}
+
+.subtitles {
+    color: rgb(61, 32, 12);
+}
+
+.personal-text {
+    color: rgb(66, 38, 18);
+    max-width: 80%;
+    margin: auto;
+}
+
+.lists {
+        display: inline-block;
+        margin: 0;
+        padding: 0;
+        zoom:1;
+        *display: inline;
+        color: rgb(66, 38, 18);
+
 }
