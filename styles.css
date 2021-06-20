@@ -1,5 +1,5 @@
 .corpo {
-    background-image: linear-gradient(to bottom, #dcb569, #b3d4be,#336d96);
+    background-image: linear-gradient(to bottom,#dfb992, #f1f1ed, rgb(223, 168, 130));
 }
 
 .helena { 
@@ -7,28 +7,44 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 40px;
-    box-shadow: black;
+    border: 5px solid #f1f1ed;
+    margin-block-start: 70px;
 }
 
 .helena-name {
-    font-family: Raleway;
+    font-family: Aref Ruqaa;
     font-size: 50px;
-    background-image: url(abstrato.jpg);
-    background-position: center;
-    margin: auto;
-    padding:0px 40px;
+    background-image: url(corpastel.jpg);
+    background-position: bottom;
     text-align: center;
-    color:black;
-    text-shadow: 2px 2px black;
-}
-
-body {
-    background-color: ;
+    color: rgb(66, 38, 18);
+    text-shadow: 2px 2px rgb(226, 179, 145);
+    position: fixed;
+    width: 100%;
+    background-size: cover;
+    margin: 0;
+    margin-top: 0;
+    text-align: center;
+    z-index: 1;
 }
 
 .indice {
     text-align: center;
+    color: rgb(66, 38, 18);
 }
 
-#ecf4f8
+.links {
+    text-decoration: none;
+    color: rgb(66, 38, 18);
+    
+}
+
+.links:hover {
+    background-color: rgb(255, 255, 255);
+}
+
+.galeria-fotos {
+    border-radius: 15%;
+    border: 3px solid #f1f1ed;
+    display: inline-block;
+}
